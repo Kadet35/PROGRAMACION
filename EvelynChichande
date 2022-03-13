@@ -1,0 +1,10 @@
+​#​incluir​<​iostream​>
+​usando​ ​espacio de nombres​ ​std​ ; 
+​int​ ​principal​()
+​{
+​ ​flotante​ a,b,c;
+​ cin>>a>>b;
+c=a+b;
+cout<<c;
+​ ​devuelve​ ​0 ​;
+​}
